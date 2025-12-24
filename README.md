@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Iqbal</h1>
+<p align="center">
+  Creative Thinker • Digital Creator • System Builder
+</p>
 
-<!--
-**elgoog1642010-tech/elgoog1642010-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Creative+System+Thinker;Digital+Artist;Learning+Developer" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👤 About Me
+Saya seorang yang minat membina idea, sistem pemikiran, dan karya kreatif.  
+Saya suka gabungkan **logik + kreativiti** dalam seni digital, fotografi, dan projek visual.
+
+Portfolio dan GitHub ini adalah tempat saya:
+- Berkongsi hasil kerja  
+- Mencuba idea baru  
+- Belajar secara konsisten  
+
+---
+
+### 🛠️ Skills & Interests
+- 🎨 Digital Art  
+- 📸 Photography  
+- 🎬 Video Editing  
+- 💻 Web & Creative Coding  
+- 🧠 System Thinking (Mindos concept)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elgoog1642010-tech&show_icons=true&theme=midnight-purple" />
+</p>
+
+---
+
+### 📫 Contact
+- WhatsApp  
+- Instagram  
+- TikTok  
+- GitHub  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=footer" />
